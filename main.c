@@ -125,7 +125,7 @@ int main(){
                 } while (minutos <= 0);
 
                 printf("-> Certo! Registrado, vamos seguir.\n");
-                cal_gastas = cal_gastas + (minutos * 10);
+                cal_gastas = cal_gastas + (minutos * 8);
 
                 break;
             case 5:
